@@ -1,0 +1,21 @@
+{
+  "name": "backend-skin-cancerr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/storage": "^7.14.0",
+    "@tensorflow/tfjs-node": "^4.22.0",
+    "express": "^5.0.0",
+    "multer": "^2.0.0",
+    "firebase-admin": "^12.7.0",
+    "uuid": "^11.0.3"
+  }
+}
